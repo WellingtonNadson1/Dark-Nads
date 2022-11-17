@@ -2,6 +2,7 @@
   "name": "Dark-Nads",
   "displayName": "Dark Nads",
   "description": "A theme made for your eyes.",
+  "publisher": "Wellington-Nadson",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.73.0"
