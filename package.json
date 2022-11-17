@@ -1,0 +1,21 @@
+{
+  "name": "Dark-Nads",
+  "displayName": "Dark Nads",
+  "description": "A theme made for your eyes.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Nads",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark Nads-color-theme.json"
+      }
+    ]
+  }
+}
