@@ -2,14 +2,15 @@
   "name": "Dark-Nads",
   "displayName": "Dark Nads",
   "description": "A theme made for your eyes.",
-  "publisher": "Wellington-Nadson",
-  "version": "0.0.1",
+  "publisher": "WellingtonNadson",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.73.0"
   },
   "categories": [
     "Themes"
   ],
+  "icon": "images/icon.png",
   "contributes": {
     "themes": [
       {
